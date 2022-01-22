@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... Full stack technology
 - 🌱 I’m currently learning ... Full stack
 - 💞️ I’m looking to collaborate on ... Full stack technology
-- 📫 How to reach me ... [linkedin](linkedin.com/in/adnan-khan-b9591615a)
+- 📫 How to reach me ... [linkedin](https://www.linkedin.com/in/adnan-khan-b9591615a)
 - 😄 Pronouns: he/him
 
 <!---
