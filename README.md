@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/DwcrzJm/Calm-Sea-Linked-In-Header.jpg" alt="Calm-Sea-Linked-In-Header" border="0">
 
 - 👋 Hi, I’m @Adnan-7
-- 👀 I’m interested in ... Full stack technology
-- 🌱 I’m currently learning ... Full stack
-- 💞️ I’m looking to collaborate on ... Full stack technology
+- 👀 I’m interested in ... MERN stack
+- 🌱 I’m currently learning ... MERN stack
+- 💞️ I’m looking to collaborate on ... MERN stack technology
 - 📫 How to reach me ... [linkedin](https://www.linkedin.com/in/adnan-khan-b9591615a)
 - 😄 Pronouns: he/him
 
